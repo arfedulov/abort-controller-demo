@@ -1,5 +1,5 @@
 <template>
-  <h1>varinats</h1>
+  <h1>variants</h1>
   <p>
     This demonstrates that abort controller does not work when nuxt calls nitro
     route handlers directly. So each varian page has to be loaded from server
